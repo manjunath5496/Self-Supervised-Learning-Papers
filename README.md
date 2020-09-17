@@ -164,68 +164,68 @@ from Play</a></li>
   
   
   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(90).pdf" style="text-decoration:none;">Tricycle: Audio Representation Learning from Sensor Network Data Using Self-Supervision</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(91).pdf" style="text-decoration:none;">Modeling Recurrence for Transformer</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(91).pdf" style="text-decoration:none;">Self-Supervised GANs via Auxiliary Rotation Loss</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(92).pdf" style="text-decoration:none;">Information Aggregation for Multi-Head Attention with Routing-by-Agreement</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(93).pdf" style="text-decoration:none;"> Convolutional Self-Attention Networks</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(94).pdf" style="text-decoration:none;">Improving Domain Adaptation Translation with Domain Invariant and Specific Information</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(92).pdf" style="text-decoration:none;">Slow and steady feature analysis: higher order temporal coherence in video</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(93).pdf" style="text-decoration:none;"> Context Encoders: Feature Learning by Inpainting</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(94).pdf" style="text-decoration:none;">Learning Features by Watching Objects Move</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(95).pdf" style="text-decoration:none;">Differentiable Sampling with Flexible ReferenceWord Order for Neural Machine Translation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(95).pdf" style="text-decoration:none;">Geometry Guided Convolutional Neural Networks for Self-Supervised Video Representation Learning</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(96).pdf" style="text-decoration:none;">Revisiting Adversarial Autoencoder for UnsupervisedWord Translation with Cycle Consistency and Improved Training</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(96).pdf" style="text-decoration:none;">Deep Clustering for Unsupervised Learning of Visual Features</a></li> 
   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(97).pdf" style="text-decoration:none;">An Empirical Investigation of Global and Local Normalization for Recurrent Neural Sequence Models Using a Continuous Relaxation to Beam Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(97).pdf" style="text-decoration:none;">Unsupervised Visual Representation Learning by Graph-based Consistent Constraints</a></li>
 
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(98).pdf" style="text-decoration:none;">Positional Encoding to Control Output Sequence Length</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(98).pdf" style="text-decoration:none;">Image Synthesis for Self-Supervised Visual Representation Learning</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(99).pdf" style="text-decoration:none;">MASS: Masked Sequence to Sequence Pre-training for Language Generation</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(99).pdf" style="text-decoration:none;">Visual Learning Beyond Direct Supervision</a></li>  
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(100).pdf" style="text-decoration:none;">Syntax-Enhanced Neural Machine Translation with Syntax-Aware Word Representations</a></li>  
+<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(100).pdf" style="text-decoration:none;">Boosting Few-Shot Visual Learning with Self-Supervision</a></li>  
   
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(101).pdf" style="text-decoration:none;">Effective Cross-lingual Transfer of Neural Machine Translation Models without Shared Vocabularies</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(101).pdf" style="text-decoration:none;">Learning Long-Range Vision for Autonomous Off-Road Driving</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(102).pdf" style="text-decoration:none;">Deep Residual Output Layers for Neural Language Generation</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(102).pdf" style="text-decoration:none;">Self-taught Learning: Transfer Learning from Unlabeled Data</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(103).pdf" style="text-decoration:none;">Sparse Sequence-to-Sequence Models </a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(103).pdf" style="text-decoration:none;">Curiosity-driven Exploration by Self-supervised Prediction</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(104).pdf" style="text-decoration:none;">When a Good Translation is Wrong in Context: Context-Aware Machine Translation Improves on Deixis, Ellipsis, and Lexical Cohesion</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(104).pdf" style="text-decoration:none;">Learning image representations tied to egomotion from unlabeled video</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(105).pdf" style="text-decoration:none;">Adaptive Attention Span in Transformers</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(105).pdf" style="text-decoration:none;">Large-Scale Study of Curiosity-Driven Learning</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(106).pdf" style="text-decoration:none;">A Neural, Interactive-predictive System for Multimodal Sequence to Sequence Tasks</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(106).pdf" style="text-decoration:none;">Learning Latent Representations in Neural Networks for Clustering through Pseudo Supervision and Graph-based Activity Regularization</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(107).pdf" style="text-decoration:none;">Target Conditioned Sampling: Optimizing Data Selection for Multilingual Neural Machine Translation</a></li> 
-  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(108).pdf" style="text-decoration:none;">CNNs found to jump around more skillfully than RNNs: Compositional generalization in seq2seq convolutional networks</a></li> 
-  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(109).pdf" style="text-decoration:none;">Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(110).pdf" style="text-decoration:none;">Soft Contextual Data Augmentation for Neural Machine Translation</a></li>  
-   
-<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(111).pdf" style="text-decoration:none;">On Measuring Gender Bias in Translation of Gender-neutral Pronouns</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(107).pdf" style="text-decoration:none;">Multi-task Self-supervised Object Detection via Recycling of Bounding Box Annotations</a></li> 
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(112).pdf" style="text-decoration:none;">Revisiting Low-Resource Neural Machine Translation: A Case Study</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(108).pdf" style="text-decoration:none;">Reverse Optical Flow for Self-Supervised Adaptive Autonomous Robot Navigation</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(113).pdf" style="text-decoration:none;">Domain Adaptation of Neural Machine Translation by Lexicon Induction</a></li>  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(109).pdf" style="text-decoration:none;">Cross Pixel Optical Flow Similarity for Self-Supervised Learning</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(114).pdf" style="text-decoration:none;">Domain Adaptive Inference for Neural Machine Translation</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(115).pdf" style="text-decoration:none;">Fluent Translations from Disfluent Speech in End-to-End Speech Translation</a></li>  
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(110).pdf" style="text-decoration:none;">Improving Robot Navigation Through Self-Supervised Online Learning</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(116).pdf" style="text-decoration:none;">Evaluating Gender Bias in Machine Translation</a></li>   
-   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(117).pdf" style="text-decoration:none;">Assessing the Ability of Self-Attention Networks to Learn Word Order</a></li>  
-   
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(118).pdf" style="text-decoration:none;">Transcoding compositionally: using attention to find more generalizable solutions</a></li>  
-   
-  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(119).pdf" style="text-decoration:none;">Exploiting Sentential Context for Neural Machine Translation</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(111).pdf" style="text-decoration:none;">Self-labelling via simultaneous clustering and representation learning</a></li> 
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(120).pdf" style="text-decoration:none;">Lattice-Based Transformer Encoder for Neural Machine Translation</a></li>  
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(121).pdf" style="text-decoration:none;">Self-Attentional Models for Lattice Inputs</a></li>   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(112).pdf" style="text-decoration:none;">Terrain Traversability Analysis Using Multi-Sensor Data Correlation by a Mobile Robot</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(113).pdf" style="text-decoration:none;">Self-Supervised Relative Depth Learning for Urban Scene Understanding</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(114).pdf" style="text-decoration:none;">Supervision Beyond Manual Annotations for Learning Visual Representations</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(115).pdf" style="text-decoration:none;">Boosting Self-Supervised Learning via Knowledge Transfer</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(116).pdf" style="text-decoration:none;">Unsupervised Learning of Visual Representations using Videos</a></li>   
+   
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(117).pdf" style="text-decoration:none;">Tracking Emerges by Colorizing Videos</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(118).pdf" style="text-decoration:none;">Self-supervised learning of a facial attribute embedding from video</a></li>  
+   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(119).pdf" style="text-decoration:none;">S<sup>4</sup>L: Self-Supervised Semi-Supervised Learning</a></li> 
+  
+   <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(120).pdf" style="text-decoration:none;">AET vs. AED: Unsupervised Representation Learning by Auto-Encoding Transformations rather than Data</a></li>  
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/Self-Supervised-Learning-Papers/blob/master/sus(121).pdf" style="text-decoration:none;">Self-Supervised Learning</a></li>   
    
    </ul>
